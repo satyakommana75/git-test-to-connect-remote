@@ -3,3 +3,4 @@ def add():
     b=90
     c=a+b
     print(c)
+add(3,5)
